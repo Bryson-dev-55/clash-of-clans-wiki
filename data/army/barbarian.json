@@ -1,8 +1,8 @@
 [
     {"id": 1, "name": "Barbarian", "level": 1, "housing": 1, "image": "cocimg/barbarian1.png"},
-    {"id": 2, "name": "Barbarian", "level": 2, "housing": 1, "image": "cocimg/barbarian2.png"},
+    {"id": 2, "name": "Barbarian", "level": 2, "housing": 1, "image": "cocimg/barbarian1-2.png"},
     {"id": 3, "name": "Barbarian", "level": 3, "housing": 1, "image": "cocimg/barbarian3.png"},
-    {"id": 4, "name": "Barbarian", "level": 4, "housing": 1, "image": "cocimg/barbarian4.png"},
+    {"id": 4, "name": "Barbarian", "level": 4, "housing": 1, "image": "cocimg/barbarian3-4.png"},
     {"id": 5, "name": "Barbarian", "level": 5, "housing": 1, "image": "cocimg/barbarian5.png"},
     {"id": 6, "name": "Barbarian", "level": 6, "housing": 1, "image": "cocimg/barbarian6.png"},
     {"id": 7, "name": "Barbarian", "level": 7, "housing": 1, "image": "cocimg/barbarian7.png"},
